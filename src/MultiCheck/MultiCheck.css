@@ -1,0 +1,17 @@
+.MultiCheck {
+  width: 300px;
+}
+
+.Label {
+  background-color: #DADADA;
+  padding         : 4px 10px;
+}
+
+.OptionsContainer {
+  background-color: #F7F7F9;
+  padding         : 10px;
+}
+
+.OptionsContent {
+  background-color: #FFFFFF;
+}
